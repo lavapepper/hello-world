@@ -1,2 +1,2 @@
 # helo-world
-my first git is being edites
+my first git is being edited
